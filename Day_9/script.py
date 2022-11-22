@@ -40,7 +40,7 @@ def find_encoding_error_part2(file):
 
     for line in file:
         number = int(line)
-        combinations_array = [combinations_array[i]+ [number] for i in range(len(combinations_array)) if sum_array[i] < ref_number]
+        combinations_array = [combinations_array[i] + [number] for i in range(len(combinations_array)) if sum_array[i] < ref_number]
         sum_array = [sum_array[i] + number for i in range(len(sum_array)) if sum_array[i] < ref_number]
 
         if ref_number in sum_array:
