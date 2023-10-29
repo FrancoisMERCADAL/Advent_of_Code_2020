@@ -2,7 +2,6 @@ FILE_NAME = "adapters.txt"
 
 # PART 1
 def determine_count_diffs_product_pt1(file):
-    
     jolt = 0
     count_diff_1 = 0
     count_diff_3 = 0
