@@ -1,6 +1,6 @@
 # Advent_of_Code_2020
 
-## Stars collected: 24
+## Stars collected: 28
 
 * Day 1: https://adventofcode.com/2020/day/1
 
@@ -27,3 +27,7 @@
 * Day 12: https://adventofcode.com/2020/day/12
 
 * Day 13: https://adventofcode.com/2020/day/13
+
+* Day 14: https://adventofcode.com/2020/day/14
+
+* Day 15: https://adventofcode.com/2020/day/15
